@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sapna Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Sapna </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna833&label=Profile%20views&color=0e75b6&style=flat" alt="sapna833" /> </p>
